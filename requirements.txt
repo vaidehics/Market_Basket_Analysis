@@ -1,0 +1,6 @@
+pandas
+mlxtend
+networkx
+matplotlib
+numpy
+seaborn
